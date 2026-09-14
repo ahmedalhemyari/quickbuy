@@ -179,6 +179,11 @@ Developer: Ahmed Al-Hemyari (https://github.com/ahmedalhemyari)
 
 Email: ahmed.a.alhemyari@gmail.com
 
+Portfolio: (https://ahmedalhemyari.netlify.app)
+
+Linkedin: (https://www.linkedin.com/in/ahmedalhemyari/)
+
+
 ---
 
 **QuickBuy** – Fast, scalable, and user-friendly e-commerce solution. 🚀
