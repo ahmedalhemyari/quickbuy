@@ -167,7 +167,7 @@ quickbuy/
 ├─ client/            # Client frontend (React + Tailwind)
 ├─ express/           # Node.js + Express + MongoDB backend
 ├─ laravel/           # Laravel backend
-├─ screenshots/            # Screenshots and assets for README
+├─ screenshots/       # Screenshots and assets for README
 └─ README.md
 ```
 
@@ -175,7 +175,7 @@ quickbuy/
 
 Contact:
 
-Author: Ahmed Al-Hemyari (https://github.com/Ahmed-Al-Hemyari)
+Developer: Ahmed Al-Hemyari (https://github.com/ahmedalhemyari)
 
 Email: ahmed.a.alhemyari@gmail.com
 
